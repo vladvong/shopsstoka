@@ -1,0 +1,8 @@
+.navbar-right{
+    justify-content: right;
+}
+.mein_block{
+    display: flex;
+    justify-content: left;
+   
+}
